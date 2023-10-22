@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import sys
 
 # get the file name from the command line argument
